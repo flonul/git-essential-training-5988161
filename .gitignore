@@ -2,4 +2,5 @@
 node_modules
 .tmp
 npm-debug.log
-logo2.jpg
+logo2.log
+second_folder/*.log
